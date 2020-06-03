@@ -1,4 +1,4 @@
-## Decompression Algorith Challenge
+# Decompression Algorith Challenge
 
 The Challenge in this exercise, you're going to decompress a compressed string.
 Your input is a compressed string of the format number[string] and the decompressed
@@ -50,6 +50,6 @@ $jest
 
 **IMPORTANT: Input is always valid, so no need to check its validity.**
 
-# Author
+## Author
 
 - Leo Javier
